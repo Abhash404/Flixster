@@ -1,8 +1,9 @@
-# Flix
-Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+# Flixster
+
+Flixster is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 ---
 
-## Flix Part 1
+## Flixster Part 1
 
 ### User Stories
 
@@ -11,12 +12,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 #### BONUS
 - [x] Views responsive for both landscape/portrait mode.
-   - [x] In portrait mode, the poster image, title, and movie overview is shown.
-   - [x] In landscape mode, the rotated alternate layout should use the backdrop image instead and show the title and movie overview to the right of it.
-
-- [ ] Display a nice default [placeholder graphic](https://guides.codepath.org/android/Displaying-Images-with-the-Glide-Library#advanced-usage) for each image during loading
+- [x] In portrait mode, the poster image, title, and movie overview is shown.
+- [x] In landscape mode, the rotated alternate layout should use the backdrop image instead and show the title and movie overview to the right of it.
 - [x] Improved the user interface by experimenting with styling and coloring.
-- [ ] For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
 ### App Walkthough GIF
 
